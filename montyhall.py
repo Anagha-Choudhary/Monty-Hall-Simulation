@@ -1,5 +1,4 @@
 import random
-
 def monty_hall_simulation(trials=10000, doors=3):
     """
     Simulates the Monty Hall problem for a given number of doors.
