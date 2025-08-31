@@ -33,7 +33,6 @@ def monty_hall_simulation(trials=10000, doors=3):
 
     return (win_if_switch / trials * 100, win_if_stay / trials * 100)
 
-
 if __name__ == "__main__":
     trials = 10000
 
